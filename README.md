@@ -60,8 +60,7 @@ The analysis uses transaction-level retail data provided as part of the Quantium
 ## 📄 Files in This Repository
 - `quantium_trial_analysis.ipynb` – Complete data analysis and visualisation
 - `Quantium_Trial_Store_Evaluation_Report.pdf` – Client-ready presentation
-- `requirements.txt` – Python dependencies
-- `images/` – Key charts and visual outputs (optional)
+
 
 ---
 
